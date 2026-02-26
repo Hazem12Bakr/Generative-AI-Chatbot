@@ -1,0 +1,6 @@
+# this file is used to ignore files and directories that should not be tracked by git.
+# and to avoid committing sensitive information to the repository to github.
+# for example, we can ignore the .env file that contains sensitive information such as API keys.
+
+# ignore the .env file
+.env

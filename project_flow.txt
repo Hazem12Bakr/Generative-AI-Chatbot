@@ -1,0 +1,13 @@
+User query
+
+display the user query
+
+save query to chat history
+
+send the chat history to llm
+
+get response from llm
+
+save response in chat history
+
+display llm response
