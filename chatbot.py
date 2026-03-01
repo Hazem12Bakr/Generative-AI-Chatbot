@@ -1,7 +1,8 @@
 from dotenv import load_dotenv
 import streamlit as st
 from langchain_groq import ChatGroq
-from langchain_community.memory import ConversationBufferWindowMemory
+#from langchain_community.memory import ConversationBufferWindowMemory
+from langchain.memory import ConversationBufferWindowMemory
 import os
 
 # Load the environment variables from the .env file
